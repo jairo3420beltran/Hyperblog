@@ -48,3 +48,9 @@ body
 {
     padding: 1em;
 }
+#fooder
+{
+    background: #777;
+    color: white;
+    text-align: center;
+}
